@@ -24,12 +24,12 @@ WatchCursor:
 if (toggle=1)
 {
 MouseGetPos, xpos, ypos 
-firstNum = 0
+firstNum = 9
 secNum = 0
 thirdNum = 0
 
-
-
+/*
+;firstRow
 PixelGetColor, color9, 258, 51
 if (color9 = 0x666665)
 {	
@@ -106,6 +106,7 @@ if (color0 = 0x010100)
 }
 }
 }
+*/
 
 ;second row
 PixelGetColor, color91, 248, 51
