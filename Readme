@@ -1,0 +1,2 @@
+Uses the inbuilt Autohotkey pixel color detection to detect digits on your screen that correspond to the healthbar of the jungle monster and the damage of your smite. 
+Will auto smite when your smite damage> Enemy health
